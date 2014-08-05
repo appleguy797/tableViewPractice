@@ -86,7 +86,7 @@ if (section == 1)
     if (indexPath.section == 2)
     {
         cell.textLabel.text = [NSString stringWithFormat:@"Cell %i",indexPath.row];
-        cell.backgroundColor = [UIColor yellowColor];
+        cell.backgroundColor = [UIColor orangeColor];
             }
  
     
