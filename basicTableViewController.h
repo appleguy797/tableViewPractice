@@ -1,5 +1,5 @@
 //
-//  XYZViewController.h
+//  basicTableViewController.h
 //  tableViewPractice
 //
 //  Created by Dice's on 8/4/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface XYZViewController : UIViewController
+@interface basicTableViewController : UITableViewController
 
 @end
